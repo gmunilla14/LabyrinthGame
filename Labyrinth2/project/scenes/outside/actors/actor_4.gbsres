@@ -23,7 +23,8 @@
       "id": "137799a4-c0db-46dd-91c9-36c0e5386e3d",
       "command": "EVENT_TEXT",
       "args": {
-        "text": "Have you seen my\ncat anywhere?"
+        "text": "Have you seen my\ncat anywhere?",
+        "__section": "text"
       }
     },
     {
